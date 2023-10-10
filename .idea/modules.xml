@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/loging_and_sign.iml" filepath="$PROJECT_DIR$/.idea/loging_and_sign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/loging_and_sign.loging_and_sign.main~1.iml" filepath="$PROJECT_DIR$/.idea/modules/loging_and_sign.loging_and_sign.main~1.iml" />
+    </modules>
+  </component>
+</project>
